@@ -1,3 +1,6 @@
+This is a fork of rofi-mpd that adds a menu to select mode when no mode flag is
+given.
+
 # ROFI-MPD
 Rofi-mpd aims to provide a fast, keyboard-driven way to interact with the music play daemon. It uses rofi to list artists, albums etc. It does not intend to provide a full replacement for graphical mpd-clients.
 
